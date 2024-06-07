@@ -1,0 +1,6 @@
+2024-04-26 15:28:43 jdbc[64]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]ID DESCRIPTION PUBLISHED TITLE TUTORIALS"; expected "INSERT"; SQL statement:
+ID DESCRIPTION PUBLISHED TITLE TUTORIALS [42001-214]
+2024-04-26 15:28:44 jdbc[64]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]ID DESCRIPTION PUBLISHED TITLE TUTORIALS"; expected "INSERT"; SQL statement:
+ID DESCRIPTION PUBLISHED TITLE TUTORIALS [42001-214]
